@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/Model/Personnages/IA/IA_Abigail.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/IHM/Scenes/Scene_Principale.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/Model/Gestionnaires/GestionnaireImages.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/IHM/Moment_Journée.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/IHM/TimerIAHandler.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/Model/Personnages/Automate/Etat.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/IHM/Sprites/Enum_IHM_Sprite.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/Model/Personnages/Automate/Attendre.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/Model/Personnages/Automate/CollecteOeuf.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/Model/Personnages/Automate/FabriqueFromage.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/Model/Personnages/Enum_Personnage.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/IHM/Sprites/Fabrique_IHM_Sprite.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/Model/Personnages/IA/IA_Poule.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/Model/Personnages/Automate/ReposMaison.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/IHM/Masques/IHM_Carte.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/Model/Personnages/Automate/Trait.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/Model/Carte.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/Model/Personnages/Automate/Mange.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/Model/Personnages/Simone.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/IHM/IHM_Moteur.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/Graphe/Graphe.java</file>
+            <file>file:/D:/IQ/S2/M2201%20-%20Graphes%20et%20langages/Projet/StardewValleyAutomaton(sans%20doppleganger)/src/stardewvalleyautomaton/Model/Personnages/Automate/Boit.java</file>
+        </group>
+    </open-files>
+</project-private>
